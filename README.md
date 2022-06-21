@@ -1,3 +1,0 @@
-# OSCP
-dfsfsfscs
-lsfc s
